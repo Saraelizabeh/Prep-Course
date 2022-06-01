@@ -7,8 +7,8 @@
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
+      </a>Esta clase fue un poco ilustativa, porque no 
+    </td> explica bien los temas de los git
   </tr>
 </table>
 
