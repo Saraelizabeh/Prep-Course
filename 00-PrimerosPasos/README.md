@@ -288,10 +288,10 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
+      </a>La clase estubo bien, pero falta que 
+    </td>expliquen que para cuando te salta error en la 
+  </tr>intalación de alguno de los programas y como usar
+</table> los git
 
 ---
 
