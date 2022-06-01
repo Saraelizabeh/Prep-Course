@@ -1,0 +1,18 @@
+.divClass h1 {
+    color: rgb(136, 127, 255);
+}
+.divClas #spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 5px crimson;
+
+}
+#thirdDiv ul li img {
+    width: 400px;
+}
