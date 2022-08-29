@@ -53,5 +53,9 @@ flex-direction: row-reverse;
 
 /* Ejercicio 6. */
 #ejercicioSiete{
-
+display: flex;
+align-items: center;
+flex-direction: column;
+flex-direction: column-reverse;
+justify-content: en;
 } 
